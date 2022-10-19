@@ -1,6 +1,6 @@
 
 ## Information
-
+![](./image.png)
 XenonStack Techinical Assignment
 Design & Develop a website using nodejs/python/java/go having 3 pages login,signup,about us
 
@@ -48,6 +48,3 @@ now navigate to frontend folder and run it using serve package
 
 
 ## Related
-
-For more help related code follow my org  
-[frenzycoders](https://github.com/frenzycoders)
